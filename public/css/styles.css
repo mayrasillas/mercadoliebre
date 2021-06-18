@@ -152,7 +152,6 @@ body{
 
     .main-navbar{
         display: flex;
-        border: dotted 2px red;
         justify-content: space-between;
 
     }
